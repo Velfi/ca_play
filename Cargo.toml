@@ -1,0 +1,9 @@
+[package]
+name = "ca_play"
+version = "0.1.0"
+authors = ["Zelda Hessler <zhessler@nerdery.com>"]
+edition = "2018"
+
+[dependencies]
+image = "^0.21"
+bit-set = "0.5.0"
